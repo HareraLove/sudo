@@ -1,0 +1,2 @@
+# sudo
+setting up Git
